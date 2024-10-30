@@ -81,6 +81,7 @@
 			<from>1</from>&#13;
 			<to>1</to>&#13;
 			<read>1</read>&#13;
+
 			<write>0</write>&#13;
 			<move>R</move>&#13;
 		</transition>&#13;
